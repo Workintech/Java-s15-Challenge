@@ -13,6 +13,8 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 
  * ![](challenge1.png)
  * Bir kütüphane sistemi modelimiz mevcut.
- * Bu modeli programlamak istiyoruz.
+ * Bu modeli programlamak istiyoruz. Nesne Tabanlı bir uygulama geliştirmek zorundayız.
+ * Tamamen özgür bir şekilde istediğiniz türde bir dizayn yapabilirsiniz.
+ * Öğrendiğimiz konuları uygulamak hedeflenmektedir.
  * Amacımız bir Kütüphane Otomasyonu dizayn etmek. Ekteki Sınıfları ve aralarındaki ilişkileri kurarak bu sistemi nasıl dizayn edebiliriz?
  * Kendi eklemek istediğiniz özellikleri eklemekten asla çekinmeyiniz.
