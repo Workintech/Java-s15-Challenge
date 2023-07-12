@@ -1,4 +1,4 @@
-#  Java Collection Framework Challenge 
+#  Java OOP Design
 
 ### Proje Kurulumu
 
