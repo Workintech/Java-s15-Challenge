@@ -19,7 +19,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  * Amacımız bir Kütüphane Otomasyonu dizayn etmek. Ekteki Sınıfları ve aralarındaki ilişkileri kurarak bu sistemi nasıl dizayn edebiliriz?
  * Kendi eklemek istediğiniz özellikleri eklemekten asla çekinmeyiniz.
 
-### Sistemde mutlaka Olmasını İstediklerimiz Nelerdir
+### Sistemde mutlaka Olmasını İstediklerimiz Nelerdir?
 
 * Bütün projeni object oriented design kullanılarak tasarlanmalı ve kodlanmalı
 * Projenizde anlamlı paketler oluşturmalı be paketlemeye dikkat etmelisiniz.
@@ -30,3 +30,6 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 * Projenizde polymorphism uygulamaları olmalı ve yazdığınız metodlar olabildiğince esnek çalışmalı.
 * Sisteminizde en az bir list ve bir adet set veri yapısı kullanmalısınız ve anlamlı bir problemi çözüyor olmalı.
 * Veri saklamak için mapleri kullanmalısınız.
+
+
+### For Challengers 
