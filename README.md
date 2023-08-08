@@ -30,6 +30,17 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 * Projenizde polymorphism uygulamaları olmalı ve yazdığınız metodlar olabildiğince esnek çalışmalı.
 * Sisteminizde en az bir list ve bir adet set veri yapısı kullanmalısınız ve anlamlı bir problemi çözüyor olmalı.
 * Veri saklamak için mapleri kullanmalısınız.
+* Minimum 10 sınıfınız olmalı ve bunların arasındaki ilişkiyi düzgün bir şekilde tanımlamalısınız.
 
+### Sistemde Neler Yapılabilir?
+Bütün sistemi bir konsol uygulaması olarak dizayn etmelisiniz.(Scanner sınıfı kullanılabilir)
+* Sisteme yeni kitap eklenebilir.
+* Sistemden id, isim veya yazar bilgisine göre bir kitap seçilebilir
+* Sistemde var olan bir kitabın bilgileri güncellenebilir.
+* Sistemde var olan bir kitap silinebilir.
+* Sistemde var olan bir kategorideki tüm kitaplar listelenebilir.
+* Sistemde var olan bir yazarın tüm kitapları listelenebilir
+* Bir kullanıcı sistemde eğer kitap kütüphanede varsa ve başkası tarafından alınmadıysa, kitabı ödünç alabilir. Bu durum yaşanırsa hangi kitabın hangi kullanıcıda olduğunun bilgisi tutulmalıdır.
+* 
 
 ### For Challengers 
