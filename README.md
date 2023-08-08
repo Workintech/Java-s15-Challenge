@@ -42,6 +42,6 @@ Bütün sistemi bir konsol uygulaması olarak dizayn etmelisiniz.(Scanner sını
 * Sistemde var olan bir yazarın tüm kitapları listelenebilir
 * Bir kullanıcı sistemde eğer kitap kütüphanede varsa ve başkası tarafından alınmadıysa, kitabı ödünç alabilir. Bu durum yaşanırsa hangi kitabın hangi kullanıcıda olduğunun bilgisi tutulmalıdır.
 * Sistemden bir kitap alındığında kitabı alan kullanıcıya bir fatura kesilmelidir.
-* 
+  
 
 ### For Challengers 
