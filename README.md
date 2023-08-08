@@ -21,7 +21,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 
 ### Sistemde mutlaka Olmasını İstediklerimiz Nelerdir?
 
-* Bütün projeni object oriented design kullanılarak tasarlanmalı ve kodlanmalı
+* Bütün projeniz object oriented design kullanılarak tasarlanmalı ve kodlanmalı
 * Projenizde anlamlı paketler oluşturmalı be paketlemeye dikkat etmelisiniz.
 * Oluşturduğunuz tüm sınıflar Encapsulation kurallarına uygun yazılmalı.
 * Composition uygulaması mutlaka olmalı.
