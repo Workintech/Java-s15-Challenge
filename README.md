@@ -32,7 +32,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 * Veri saklamak için mapleri kullanmalısınız.
 * Minimum 10 sınıfınız olmalı ve bunların arasındaki ilişkiyi düzgün bir şekilde tanımlamalısınız.
 
-### Sistemde Neler Yapılabilir?
+### Sistemde Minimum Neler Yapılabilmelidir?
 Bütün sistemi bir konsol uygulaması olarak dizayn etmelisiniz.(Scanner sınıfı kullanılabilir)
 * Sisteme yeni kitap eklenebilir.
 * Sistemden id, isim veya yazar bilgisine göre bir kitap seçilebilir
@@ -44,5 +44,4 @@ Bütün sistemi bir konsol uygulaması olarak dizayn etmelisiniz.(Scanner sını
 * Aynı şekilde kullanıcı kitap geri teslimde edebilir.
 * Sistemden bir kitap alındığında kitabı alan kullanıcıya bir fatura kesilmelidir. Kitabı geri iade ettiğinde kullanıcıya ücreti geri iade edilmelidir.
 * Kullanıcıların 5 kitap limiti olmalı ve bu kitap limitine ulaştıklarında daha fazla kitap alamamalılar.  
-
-### For Challengers 
+ 
