@@ -40,7 +40,7 @@ Bütün sistemi bir konsol uygulaması olarak dizayn etmelisiniz.(Scanner sını
 * Sistemde var olan bir kitap silinebilir.
 * Sistemde var olan bir kategorideki tüm kitaplar listelenebilir.
 * Sistemde var olan bir yazarın tüm kitapları listelenebilir
-* Bir kullanıcı sistemde eğer kitap kütüphanede varsa ve başkası tarafından alınmadıysa, kitabı ödünç alabilir. Bu durum yaşanırsa hangi kitabın hangi kullanıcıda olduğunun bilgisi tutulmalıdır.
+* Bir kullanıcı sistemde eğer kitap kütüphanede varsa ve başkası tarafından alınmadıysa bir kitabı ödünç alabilir. Bu durum yaşanırsa hangi kitabın hangi kullanıcıda olduğunun bilgisi tutulmalıdır.
 * Aynı şekilde kullanıcı kitap geri teslimde edebilir.
 * Sistemden bir kitap alındığında kitabı alan kullanıcıya bir fatura kesilmelidir. Kitabı geri iade ettiğinde kullanıcıya ücreti geri iade edilmelidir.
 * Kullanıcıların 5 kitap limiti olmalı ve bu kitap limitine ulaştıklarında daha fazla kitap alamamalılar.  
